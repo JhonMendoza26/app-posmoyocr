@@ -1,2 +1,2 @@
 # app-posmoyocr
-POS para MoyoCR
+POS para MoyoCR EDITADO
